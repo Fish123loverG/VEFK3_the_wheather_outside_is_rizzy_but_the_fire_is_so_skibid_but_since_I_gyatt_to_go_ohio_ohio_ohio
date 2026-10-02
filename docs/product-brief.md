@@ -23,11 +23,11 @@ Lang mikilvægasta eru gögnin tengd developers og publishers, end tölvuleika u
 
 ## MVP
 Notenda kerfi,
-aðferð til að hafa samband,
+aðferð til að hafa samband (einfalt orð leitari),
 leitar aðferð til að finna developer/publisher.
 
-## Should have
-Leitar vél til að finna publisher sem hentar best,
+## Should have (this in not MVP you stupid robot)
+Leitar vél til að finna publisher sem hentar best(by genre),
 notifications,
 slóð sem hefur alla developers sem eru að leita að publishers.
 
